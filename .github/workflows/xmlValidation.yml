@@ -19,5 +19,5 @@ jobs:
 #       uses: korelstar/xmllint-problem-matcher@v1
       uses: ChristophWurst/xmllint-action@v1
       with:
-        xml-file: ./Test/checkXmlRules.xml
+        xml-file: ./xmlFile/checkXmlRules.xml
         xml-schema-file: ./customeRules/rule1.xsd
