@@ -20,4 +20,4 @@ jobs:
       uses: ChristophWurst/xmllint-action@v1
       with:
         xml-file: ./xmlFile/checkXmlRules.xml
-        xml-schema-file: ./customeRules/rule1.xsd
+        xml-schema-file: ./customeRule/rule1.xsd
